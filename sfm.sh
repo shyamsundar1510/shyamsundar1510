@@ -30,7 +30,7 @@ if [ $? -eq 0 ]
 then
 echo "import of data from cloud is completed" >> /tmp/sfm_${dt}.log
 else
-echo "no data imported from cloud"
+echo "no data imported from clouds"
 exit 0
 fi
 
