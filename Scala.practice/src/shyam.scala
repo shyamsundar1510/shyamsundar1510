@@ -20,6 +20,6 @@ object shyam {
     
     val sss=new division
     val date=sss.data(10, 5)
-    println(date)
+    println("Today" +date)
 }
 }
